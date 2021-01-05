@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c31bdeac-de5e-4eb8-8b05-395087e90b6f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/jerbi_habib_Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/Version20201229220754.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/Version20201229222658.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_about.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_event.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_event.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_feature.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_feature.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_footer.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_price.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_price.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_projects.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_projects.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_service.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_service.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_team.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_team.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_testimonials.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/_testimonials.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/breadcrumb.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/breadcrumb.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/responsive.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/banner/banner-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/banner/banner-map.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/banner/banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/banner/home-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/banner/home-left-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/add.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/author.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/cat-post/cat-post-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/cat-post/cat-post-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/cat-post/cat-post-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/causes/causes-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/causes/causes-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/causes/causes-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/feature-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/home-blog/home-blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/home-blog/home-blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/home-blog/home-blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/main-blog/m-blog-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/main-blog/m-blog-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/main-blog/m-blog-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/main-blog/m-blog-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/main-blog/m-blog-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/next.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/popular-post/post1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/popular-post/post2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/popular-post/post3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/popular-post/post4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/post-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/post-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/blog/prev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/_DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/a.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/d.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/disabled-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/disabled-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/f8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/g8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/primary-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/primary-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/success-check.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/success-radio.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/user1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/elements/user2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/gallery/portfolio_details.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/instagram/Image-08.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/logo 2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/logo-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/projects/projects-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/projects/projects-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/projects/projects-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/projects/projects-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/projects/projects-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/projects/projects-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/team/team-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/team/team-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/team/team-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/img/team/team-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/gmaps.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/isotope-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/jquery.ajaxchimp.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/jquery.form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/jquery.validate.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/mail-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/popper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/stellar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_blog.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_button.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_feature.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_predefine.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_testimonials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/breadcrumb.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/animate-css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/animate-css/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/bootstrap-datepicker/bootstrap-datetimepicker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/bootstrap-datepicker/bootstrap-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/bootstrap-datepicker/bootstrap-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/counter-up/jquery.counterup.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/counter-up/jquery.waypoints.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flaticon/Flaticon.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flaticon/Flaticon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flaticon/Flaticon.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flaticon/Flaticon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flaticon/_flaticon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flaticon/flaticon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/flipclock/timer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/isotope/imagesloaded.pkgd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/isotope/isotope-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/jquery-ui/jquery-ui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/jquery-ui/jquery-ui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/lightbox/simpleLightbox.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/lightbox/simpleLightbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/linericon/fonts/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/linericon/fonts/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/linericon/fonts/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/linericon/fonts/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/linericon/fonts/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/linericon/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/nice-select/css/nice-select.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/nice-select/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/nice-select/js/jquery.nice-select.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/nice-select/js/jquery.nice-select.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/owl-carousel/assets/ajax-loader.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/owl-carousel/assets/animated.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/owl-carousel/assets/owl.carousel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/owl-carousel/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/front/vendors/owl-carousel/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Controller/PostController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Category.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Entity/Post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/CategoryRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/CommentRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Repository/PostRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/post/index.html.twig" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-server-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/friendsofphp/proxy-manager-lts" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/vendor/symfony/proxy-manager-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/web-link" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1mcG4tIkNoJqGhk6fqmg1yoTe3G" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c31bdeac-de5e-4eb8-8b05-395087e90b6f" name="Default Changelist" comment="" />
+      <created>1609785278038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609785278038</updated>
+      <workItem from="1609785279281" duration="989000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
